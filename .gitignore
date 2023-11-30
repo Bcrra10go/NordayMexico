@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 NordayMexico.iml
+src/norday.tsv
 
 ### Eclipse ###
 .apt_generated

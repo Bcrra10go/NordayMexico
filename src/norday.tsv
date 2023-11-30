@@ -1,0 +1,287 @@
+Producto	Modelo	Color	Cantidad	Precio Unitario	Total	Caja	Salidas	Existencia			@
+Active 18oz	Clasico	Blanco	8	$235.00	$1,880.00	E5	7	1			
+Active 18oz	Clasico	Rojo	11	$235.00	$2,585.00	E5	11	0			
+Active 18oz	Clasico	Rosa Pastel	6	$235.00	$1,410.00	E5	6	0			
+Active 18oz	Clasico	Navy	27	$235.00	$6,345.00	E5	27	0			
+Active 18oz	Clasico	Azul Rey	0	$235.00	$0.00	E5	0	0			
+Active 18oz	Clasico	Negro	7	$235.00	$1,645.00	E5	5	2			
+Active 18oz	Clasico	Menta (Aqua)	4	$235.00	$940.00	E5	4	0			
+Active 22oz	Clasico	Morado	11	$255.00	$2,805.00	E5	9	2			
+Active 22oz	Clasico	Navy	6	$255.00	$1,530.00	E5	3	3			
+Active 22oz	Clasico	Menta (Aqua)	20	$255.00	$5,100.00	E5	19	1			
+Active 22oz	Clasico	Rosa Pastel	8	$255.00	$2,040.00	E5	8	0			
+Active 22oz	Clasico	Azul Rey	19	$255.00	$4,845.00	E5	17	2			
+Active 22oz	Clasico	Rojo	20	$255.00	$5,100.00	E5	18	2			
+Active 22oz	Clasico	Blanco	3	$255.00	$765.00	E5	2	1			
+Active 22oz	Clasico	Negro	23	$255.00	$5,865.00	E5	21	2			
+Active 32oz	Clasico	Rojo	4	$295.00	$1,180.00	E4	3	1			
+Active 32oz	Clasico	Negro	19	$295.00	$5,605.00	E4	16	3			
+Active 32oz	Clasico	Navy	13	$295.00	$3,835.00	E4	12	1			
+Active 32oz	Clasico	Blanco	7	$295.00	$2,065.00	E4	4	3			
+Agavero	Clasico	Navy	24	$160.00	$3,840.00	E2	24	0			
+Agavero	Clasico	Rosa	12	$160.00	$1,920.00	E2	4	8			
+Agavero	Clasico	Negro	44	$160.00	$7,040.00	E2	39	5			
+Agavero	Clasico	Blanco	53	$160.00	$8,480.00	E2	50	3			
+Agavero	Premium	Rose Gold	4	$180.00	$720.00	E2	3	1			
+Agavero	Premium	Madera	4	$180.00	$720.00	E2	4	0			
+Agavero	Premium	Marmol Negro	4	$180.00	$720.00	E2	3	1			
+Agavero	Premium	Marmol Blanco	5	$180.00	$900.00	E2	2	3			
+Agavero	Premium	Midnight	4	$0.00	$0.00	0	1	3			
+Agavero Selección	FIFA	Negro	55	$200.00	$11,000.00	E2	55	0			
+Agavero Selección	FIFA	Verde	55	$200.00	$11,000.00	E2	53	2			
+Set Conmemorativo Agavero	FIFA	Verde Oficial	11	$800.00	$8,800.00		11	0			
+Set Conmemorativo Tumbler 20oz	FIFA	Verde Oficial	15	$1,150.00	$17,250.00		15	0			
+MultiCan	Clasico	Blanco	6	$0.00	$0.00		6	0
+Beer Can	Clasico	Rojo	2	$210.00	$420.00	E4	0	2			
+Beer Can	Clasico	Blanco	2	$210.00	$420.00	E4	1	1			
+Beer Can Slim	Clasico	Menta	2	$210.00	$420.00	E4	1	1			
+Beer Can Slim	Clasico	Negro	2	$210.00	$420.00	E4	1	1			
+Beer Can Slim	Clasico	Blanco	2	$210.00	$420.00	E4	2	0			
+Beer Can Slim	Clasico	Navy	2	$210.00	$420.00	E4	1	1			
+Beer Can Slim	Premium	Blush	2	$210.00	$420.00	E4	2	0			
+Bloom 18 oz	Clasico	Blanco	6	$255.00	$1,530.00	E3	2	4			
+Bloom 18 oz	Clasico	Negro	5	$255.00	$1,275.00	E3	6	-1	DEBO 1 INTERLOMAS		
+Bloom 18 oz	Clasico	Rosa Pastel	5	$255.00	$1,275.00	E3	3	2			
+Bloom 18 oz	Clasico	Menta (Aqua)	3	$255.00	$765.00	E3	2	1			
+Bloom 18 oz	Clasico	Navy Blue	5	$255.00	$1,275.00	E3	3	2			
+Bloom 18 oz	Premium	Jaguar Negro	6	$265.00	$1,590.00	E3	4	2			
+Bloom 18 oz	Premium	Bacalar	3	$265.00	$795.00	E3	1	2			
+Bloom 18 oz	Premium	Gold Leopard	7	$265.00	$1,855.00	E3	2	5			
+Bloom 18 oz	Premium	Mermaid Glitter	5	$265.00	$1,325.00	E3	2	3	1 FARMACIAS		
+Bloom 18 oz	Premium	Blush Glitter	7	$265.00	$1,855.00	E3	4	3	1 FARMACIAS		
+Bloom 18 oz	Premium	Marmol Blanco	7	$265.00	$1,855.00	E3	3	4			
+Bloom 18 oz	Premium	Gold/Blue	3	$265.00	$795.00	E3	0	3			
+Bloom 18 oz	Premium	Midnight	2	$265.00	$530.00	E3	1	1			
+Bloom 30 oz	Clasico	Blanco	3	$280.00	$840.00	E6	1	2	DEBE 1 INTERLOMAS		
+Bloom 30 oz	Clasico	Negro	3	$280.00	$840.00	E6	2	1			
+Bloom 30 oz	Clasico	Menta (Aqua)	3	$280.00	$840.00	E6	1	2			
+Bloom 30 oz	Clasico	Rosa Pastel	3	$280.00	$840.00	E6	0	3			
+Bloom 30 oz	Clasico	Navy	3	$280.00	$840.00	E6	2	1			
+Bloom 30 oz	Premium	Jaguar Negro	6	$295.00	$1,770.00	E6	6	0	DEBO 1 INTERLOMAS	del bazar sierra para Miriam Rivero	
+Bloom 30 oz	Premium	Marmol Blanco	3	$295.00	$885.00	E6	0	3			
+Bloom 30 oz	Premium	Gold Leopard	4	$295.00	$1,180.00	E6	1	3			
+Bloom 30 oz	Premium	Blush Glitter	3	$295.00	$885.00	E6	1	2			
+Bloom 30 oz	Premium	Midnight	2	$295.00	$590.00		1	1			
+Infusions	Clasico	Sky	11	$250.00	$2,750.00	E4	8	3			
+Infusions	Clasico	Rosa Pastel	9	$250.00	$2,250.00	E4	7	2			
+Infusions	Clasico	Rojo	9	$250.00	$2,250.00	E4	7	2			
+Infusions	Clasico	Negro	9	$250.00	$2,250.00	E4	8	1			
+Infusions	Clasico	Fusia	9	$250.00	$2,250.00	E4	6	3			
+Infusions	Clasico	Blanco	10	$250.00	$2,500.00	E4	7	3			
+Infusions	Clasico	Menta	3	$250.00	$750.00	E4	2	1			
+Infusions	Clasico	Coral	10	$250.00	$2,500.00	E4	7	3			
+Infusions	Premium	Marmol Blanco	12	$260.00	$3,120.00	E4	12	0			
+Infusions	Premium	Madera	12	$260.00	$3,120.00	E4	11	1			
+Irish	Clasico	Menta	1	$265.00	$265.00	E1	1	0			
+Irish	Clasico	Rosa Pastel	1	$265.00	$265.00	E2	1	0			
+Irish	Clasico	Navy	1	$265.00	$265.00	E1	1	0			
+Journey	Clasico	Blanco	3	$350.00	$1,050.00	E4	3	0			
+Journey	Clasico	Navy	1	$350.00	$350.00	E4	1	0			
+Kid	Clasico	Rojo	2	$230.00	$460.00	E1	2	0			
+Kid	Clasico	Amarillo	2	$230.00	$460.00	E1	1	1			
+Kid	Clasico	Navy	5	$230.00	$1,150.00	E1	5	0			
+Kid	Clasico	Rosa Pastel	2	$230.00	$460.00	E1	2	0			
+Kid	Clasico	Fusia	2	$230.00	$460.00	E1	1	1			
+King	Clasico	Blanco	5	$515.00	$2,575.00		5	0			
+King	Clasico	Navy	3	$515.00	$1,545.00		3	0			
+King	Clasico	Azul Rey	0	$515.00	$0.00		2	-2	DEBO 2 INTERLOMAS		
+Mountain	Clasico	Arena	3	$615.00	$1,845.00		4	-1	DEBO 1 INTERLOMAS		
+Mountain	Clasico	Navy	6	$615.00	$3,690.00		6	0			
+Mountain	Clasico	Negro	2	$615.00	$1,230.00		2	0			
+Mugzilla	Clasico	Blanco	2	$270.00	$540.00	E2	0	2			
+Mugzilla	Clasico	Negro	4	$270.00	$1,080.00	E2	2	2			
+Mugzilla	Clasico	Fusia	2	$270.00	$540.00	E2	1	1			
+Mugzilla	Clasico	Arena	2	$270.00	$540.00	E2	1	1			
+Mugzilla	Clasico	Navy	4	$270.00	$1,080.00	E0	2	2			
+Mugzilla	Clasico	Rojo	3	$270.00	$810.00	E1	2	1			
+Mugzilla	Clasico	Verde Militar	6	$270.00	$1,620.00	E2	3	3			
+Mugzilla	Clasico	Sky	1	$270.00	$270.00	E3	2	-1	DEBO 1 INTERLOMAS	del bazar sierra para Ili	
+Mugzilla	Premium	Sand Camo	2	$285.00	$570.00	E2	0	2			
+Mugzilla	Premium	Madera	2	$285.00	$570.00	E2	1	1			
+Party Cup 16 oz	Clasico	Fusia	2	$280.00	$560.00	E5	1	1			
+Party Cup 16 oz	Clasico	Negro	4	$280.00	$1,120.00	E5	1	3			
+Party Cup 16 oz	Clasico	Azul Rey	4	$280.00	$1,120.00	E5	2	2			
+Party Cup 16 oz	Clasico	Blanco	5	$280.00	$1,400.00	E5	3	2			
+Party Cup 16 oz	Clasico	Rojo	13	$280.00	$3,640.00	E5	11	2			
+Party Cup 24 oz	Clasico	Fusia	7	$315.00	$2,205.00	E5	5	2			
+Party Cup 24 oz	Clasico	Naranja	3	$315.00	$945.00	E5	1	2			
+Party Cup 24 oz	Clasico	Negro	5	$315.00	$1,575.00	E5	4	1			
+Party Cup 24 oz	Clasico	Verde	5	$315.00	$1,575.00	E5	3	2			
+Party Cup 24 oz	Clasico	Azul Rey	4	$315.00	$1,260.00	E5	2	2			
+Party Cup 24 oz	Clasico	Blanco	4	$315.00	$1,260.00	E5	2	2			
+Party Cup 24 oz	Clasico	Rojo	6	$315.00	$1,890.00	E5	6	0			
+Scotch	Clasico	Navy	4	$205.00	$820.00	E1	3	1			
+Scotch	Clasico	Negro	2	$205.00	$410.00	E1	2	0			
+Scotch	Clasico	Blanco	3	$205.00	$615.00	E1	2	1			
+Scotch	Premium	Marmol Negro	12	$220.00	$2,640.00	E1	12	0			
+Scotch	Premium	Marmol Blanco	12	$220.00	$2,640.00	E1	12	0			
+Scotch	Premium	Blush	2	$220.00	$440.00	E1	2	0			
+Scotch	Premium	Madera	2	$220.00	$440.00	E1	2	0			
+Shaker	Clasico	Blanco	1	$285.00	$285.00	E2	0	1			
+Shaker	Clasico	Negro	1	$285.00	$285.00	E2	0	1			
+Shaker	Clasico	Rojo	1	$285.00	$285.00	E2	0	1			
+Skinny	Clasico	Sky	8	$245.00	$1,960.00	E3	7	1			
+Skinny	Clasico	Rosa Pastel	6	$245.00	$1,470.00	E3	5	1			
+Skinny	Clasico	Rojo	3	$245.00	$735.00	E3	1	2			
+Skinny	Clasico	Negro	9	$245.00	$2,205.00	E3	6	3			
+Skinny	Clasico	Amarillo	2	$245.00	$490.00	E3	0	2			
+Skinny	Clasico	Menta (Aqua)	11	$245.00	$2,695.00	E3	8	3			
+Skinny	Clasico	Fusia	7	$245.00	$1,715.00	E3	6	1			
+Skinny	Clasico	Blanco	10	$245.00	$2,450.00	E3	6	4			
+Skinny	Premium	Blush	8	$255.00	$2,040.00	E3	6	2			
+Skinny	Premium	Merlot	103	$255.00	$26,265.00	E3	103	0			
+Skinny	Premium	Marmol Blanco	28	$255.00	$7,140.00	E3	26	2			
+Skinny	Animal Print	Zebra	4	$275.00	$1,100.00	E3	4	0			
+Sommelier	Clasico	Rosa Pastel	4	$190.00	$760.00	E1	2	2			
+Sommelier	Clasico	Coral	4	$190.00	$760.00	E1	3	1			
+Sommelier	Clasico	Sky	2	$190.00	$380.00	E1	2	0			
+Sommelier	Clasico	Fusia (Pink)	2	$190.00	$380.00	E1	2	0			
+Sommelier	Clasico	Morado	2	$190.00	$380.00	E1	1	1			
+Sommelier	Clasico	Menta (Aqua)	2	$190.00	$380.00	E1	0	2			
+Sommelier	Clasico	Rojo	6	$190.00	$1,140.00	E1	2	4			
+Sommelier	Clasico	Lila (Light Purple)	2	$190.00	$380.00	E1	1	1			
+Sommelier	Clasico	Navy	6	$190.00	$1,140.00	E1	4	2			
+Sommelier	Clasico	Negro	11	$190.00	$2,090.00	E1	9	2			
+Sommelier	Clasico	Blanco	11	$190.00	$2,090.00	E1	11	0			
+Sommelier	Premium	Aqua Blue	2	$210.00	$420.00	E1	0	2			
+Sommelier	Premium	Charcoal	2	$210.00	$420.00	E1	2	0			
+Sommelier	Premium	Blush	1	$210.00	$210.00	E1	0	1			
+Sommelier	Premium	Merlot	2	$210.00	$420.00	E1	1	1			
+Sommelier	Premium	Perla	2	$210.00	$420.00	E1	2	0			
+Sommelier	Premium	Violet	2	$210.00	$420.00	E1	2	0			
+Sommelier	Premium	Marmol Negro	3	$210.00	$630.00	E1	2	1			
+Sommelier	Premium	Marmol Blanco	12	$210.00	$2,520.00	E1	11	1			
+Sommelier	Premium	Madera	14	$210.00	$2,940.00	E1	13	1		del bazar sierra para Carla Germana Pao	
+Tumbler 20 oz	Clasico	Turquesa	6	$235.00	$1,410.00	Caja	4	2			
+Tumbler 20 oz	Clasico	Sky	7	$235.00	$1,645.00	Caja	7	0			
+Tumbler 20 oz	Clasico	Navy	80	$210.00	$16,800.00	Caja	72	8	1 FARMACIAS		
+Tumbler 20 oz	Clasico	Morado (Purple)	6	$235.00	$1,410.00	Caja	3	3			
+Tumbler 20 oz	Clasico	Militar	10	$235.00	$2,350.00	Caja	7	3			
+Tumbler 20 oz	Clasico	Menta (Aqua)	6	$235.00	$1,410.00	Caja	4	2			
+Tumbler 20 oz	Clasico	Lila	10	$235.00	$2,350.00	Caja	8	2			
+Tumbler 20 oz	Clasico	Fusia (Pink)	17	$235.00	$3,995.00	Caja	14	3			
+Tumbler 20 oz	Clasico	Coral	5	$235.00	$1,175.00	Caja	3	2			
+Tumbler 20 oz	Clasico	Bandera	20	$235.00	$4,700.00	Caja	18	2			
+Tumbler 20 oz	Clasico	Arena	6	$235.00	$1,410.00	Caja	5	1			
+Tumbler 20 oz	Clasico	Plata	3	$235.00	$705.00	Caja	2	1			
+Tumbler 20 oz	Clasico	Amarillo	14	$235.00	$3,290.00	Caja	11	3			
+Tumbler 20 oz	Clasico	Rosa Pastel	19	$235.00	$4,465.00	Caja	17	2			
+Tumbler 20 oz	Clasico	Naranja	19	$235.00	$4,465.00	Caja	18	1			
+Tumbler 20 oz	Clasico	Negro	78	$210.00	$16,380.00	Caja	70	8	1 FARMACIAS	DEBE 1 INTERLOMAS	
+Tumbler 20 oz	Clasico	Azul Rey (Blue)	66	$235.00	$15,510.00	Caja	63	3			
+Tumbler 20 oz	Clasico	Gris	10	$235.00	$2,350.00	Caja	10	0			
+Tumbler 20 oz	Clasico	Blanco	188	$210.00	$39,480.00	Caja	186	2	1 FARMACIAS		
+Tumbler 20 oz	Clasico	Rojo	24	$235.00	$5,640.00	Caja	21	3			
+Tumbler 20 oz	Premium	Rose Gold	6	$250.00	$1,500.00	Caja	5	1			
+Tumbler 20 oz	Premium	Merlot	8	$250.00	$2,000.00	Caja	6	2			
+Tumbler 20 oz	Premium	Marmol Negro	9	$250.00	$2,250.00	Caja	7	2			
+Tumbler 20 oz	Premium	Marmol Blanco	9	$250.00	$2,250.00	Caja	6	3			
+Tumbler 20 oz	Premium	Madera	120	$250.00	$30,000.00	Caja	115	5			
+Tumbler 20 oz	Premium	Camo Negro	12	$250.00	$3,000.00	Caja	11	1			
+Tumbler 20 oz	Premium	Camo Men	4	$250.00	$1,000.00	Caja	2	2			
+Tumbler 20 oz	Premium	Camo Girl	4	$250.00	$1,000.00	Caja	2	2			
+Tumbler 20 oz	Premium	Blush	10	$250.00	$2,500.00	Caja	8	2			
+Tumbler 20 oz	Premium	Midnight	4	$250.00	$1,000.00	Caja	2	2			
+Tumbler 20 oz	Animal Print	Zebra	8	$270.00	$2,160.00	Caja	4	4			
+Tumbler 20 oz	Animal Print	Jaguar Rosa	6	$270.00	$1,620.00	Caja	4	2			
+Tumbler 20 oz	Animal Print	Jaguar Arena	5	$270.00	$1,350.00	Caja	5	0			
+Tumbler 20 oz	Animal Print	Jaguar Negro	8	$270.00	$2,160.00	Caja	5	3			
+Tumbler 20 oz Selección	FIFA	Verde Oficial	9	$350.00	$3,150.00	Caja	6	3			
+Tumbler 20 oz Selección	FIFA	Negro Selección	8	$350.00	$2,800.00	Caja	6	2			
+Tumbler 20 oz Selección	FIFA	Verde ola	8	$350.00	$2,800.00	Caja	7	1			
+Tumbler 20 oz	NFL	Bufalo	1	$325.00	$325.00	Caja	1	0			
+Tumbler 20 oz	NFL	Chicago	3	$325.00	$975.00	Caja	1	2			
+Tumbler 20 oz	NFL	Dallas Bco	4	$325.00	$1,300.00	Caja	0	4			
+Tumbler 20 oz	NFL	Broncos Navy	0	$325.00	$0.00	Caja	0	0			
+Tumbler 20 oz	NFL	Broncos Naranja	2	$325.00	$650.00	Caja	0	2			
+Tumbler 20 oz	NFL	Detroit Lions	2	$325.00	$650.00	Caja	0	2			
+Tumbler 20 oz	NFL	Green Bay Bco	2	$325.00	$650.00	Caja	0	2			
+Tumbler 20 oz	NFL	Green Bay Negro	5	$325.00	$1,625.00	Caja	0	5			
+Tumbler 20 oz	NFL	Houston	0	$325.00	$0.00	Caja	0	0			
+Tumbler 20 oz	NFL	Kansas City	4	$325.00	$1,300.00	Caja	1	3			
+Tumbler 20 oz	NFL	Las Vegas	1	$325.00	$325.00	Caja	1	0			
+Tumbler 20 oz	NFL	Los Angeles Rams	2	$325.00	$650.00	Caja	1	1			
+Tumbler 20 oz	NFL	Miami	3	$325.00	$975.00	Caja	1	2			
+Tumbler 20 oz	NFL	New York Giants	2	$325.00	$650.00	Caja	0	2			
+Tumbler 20 oz	NFL	New York Jets	2	$325.00	$650.00	Caja	0	2			
+Tumbler 20 oz	NFL	Patriotas New England	2	$325.00	$650.00	Caja	0	2			
+Tumbler 20 oz	NFL	Philadelfia	3	$325.00	$975.00	Caja	1	2			
+Tumbler 20 oz	NFL	Pittsburg	0	$325.00	$0.00	Caja	2	-2	DEBO 1 INTERLOMAS		
+Tumbler 20 oz	NFL	San Francisco	0	$325.00	$0.00	Caja	1	-1	DEBO 1 INTERLOMAS		
+Tumbler 20 oz	NFL	Vikings	2	$325.00	$650.00	Caja	1	1			
+Tumbler 20 oz	Xbox	Black/White Logo	4	$295.00	$1,180.00	Caja	3	1			
+Tumbler 20 oz	Xbox	Black/Green Logo	6	$295.00	$1,770.00	Caja	6	0			
+Tumbler 20 oz	Xbox	Green	3	$295.00	$885.00	Caja	1	2			
+Tumbler 20 oz Qatar	FIFA	Stadium	2	$350.00	$700.00	Caja	2	0			
+Tumbler 20 oz Qatar	FIFA	Victory	2	$350.00	$700.00	Caja	2	0			
+Tumbler 20 oz Qatar	FIFA	Aqua	2	$350.00	$700.00	Caja	1	1			
+Tumbler 30 oz	Clasico	Turquesa	26	$255.00	$6,630.00	Caja	24	2			
+Tumbler 30 oz	Clasico	Sky	6	$255.00	$1,530.00	Caja	4	2			
+Tumbler 30 oz	Clasico	Rosa Pastel	7	$255.00	$1,785.00	Caja	5	2			
+Tumbler 30 oz	Clasico	Rojo	16	$255.00	$4,080.00	Caja	17	-1	DEBO 1 INTERLOMAS		
+Tumbler 30 oz	Clasico	Azul Rey	25	$255.00	$6,375.00	Caja	18	7			
+Tumbler 30 oz	Clasico	Negro	435	$255.00	$110,925.00	Caja	427	8	3 FARMACIAS		
+Tumbler 30 oz	Clasico	Navy	34	$255.00	$8,670.00	Caja	29	5			
+Tumbler 30 oz	Clasico	Morado (Violet)	8	$255.00	$2,040.00	Caja	4	4			
+Tumbler 30 oz	Clasico	Militar	38	$255.00	$9,690.00	Caja	35	3			
+Tumbler 30 oz	Clasico	Menta (Aqua)	6	$255.00	$1,530.00	Caja	4	2			
+Tumbler 30 oz	Clasico	Lila (Light Purple)	6	$255.00	$1,530.00	Caja	4	2			
+Tumbler 30 oz	Clasico	Gris	6	$255.00	$1,530.00	Caja	4	2			
+Tumbler 30 oz	Clasico	Fusia (Pink)	4	$255.00	$1,020.00	Caja	3	1			
+Tumbler 30 oz	Clasico	Coral	4	$255.00	$1,020.00	Caja	3	1			
+Tumbler 30 oz	Clasico	Blanco	28	$255.00	$7,140.00	Caja	27	1			
+Tumbler 30 oz	Clasico	Arena	39	$255.00	$9,945.00	Caja	35	4			
+Tumbler 30 oz	Clasico	Amarillo	5	$255.00	$1,275.00	Caja	3	2			
+Tumbler 30 oz	Clasico	Naranja	17	$255.00	$4,335.00	Caja	14	3			
+Tumbler 30 oz	Premium	Merlot	6	$270.00	$1,620.00	Caja	4	2			
+Tumbler 30 oz	Premium	Marmol Blanco	6	$270.00	$1,620.00	Caja	4	2			
+Tumbler 30 oz	Premium	Madera	6	$270.00	$1,620.00	Caja	5	1			
+Tumbler 30 oz	Premium	Camo Negro	5	$270.00	$1,350.00	Caja	4	1			
+Tumbler 30 oz	Premium	Camo Men	4	$255.00	$1,020.00	Caja	2	2			
+Tumbler 30 oz	Premium	Camo Girl	4	$270.00	$1,080.00	Caja	2	2			
+Tumbler 30 oz	Premium	Blush	7	$270.00	$1,890.00	Caja	5	2	DEBE 1 INTERLOMAS		
+Tumbler 30 oz	Premium	Midnight	2	$270.00	$540.00	Caja	2	0			
+Tumbler 30 oz Selección	FIFA	Negro Selección	17	$375.00	$6,375.00	Caja	15	2			
+Tumbler 30 oz Selección	FIFA	Verde Ola	2	$375.00	$750.00		0	2			
+Tumbler 30 oz Selección	FIFA	Verde Oficial	4	$375.00	$1,500.00	Caja	2	2			
+Pet Bowl 32 oz	Clasico	Arena	2	$320.00	$640.00	E6	0	2			
+Pet Bowl 32 oz	Clasico	Blanco	2	$320.00	$640.00	E6	0	2			
+Pet Bowl 32 oz	Clasico	Negro	40	$320.00	$12,800.00	E6	39	1			
+Pet Bowl 32 oz	Clasico	Rosa	37	$320.00	$11,840.00	E6	35	3			
+Pet Bowl 64 oz	Clasico	Arena	2	$350.00	$700.00	E6	2	0	se usa para dar agua a los perros		
+Pet Bowl 64 oz	Clasico	Blanco	2	$350.00	$700.00	E6	1	1			
+Pet Bowl 64 oz	Clasico	Negro	37	$350.00	$12,950.00	E6	37	0			
+Pet Bowl 64 oz	Clasico	Rosa	37	$350.00	$12,950.00	E6	35	2			
+Coffee Mug 12 oz	Clasico	Negro	21	$245.00	$5,145.00	E1	17	4			
+Coffee Mug 12 oz	Clasico	Blanco	12	$245.00	$2,940.00	E1	7	5			
+Coffee Mug 12 oz	Clasico	Rojo	5	$245.00	$1,225.00	E1	2	3			
+Coffee Mug 12 oz	Clasico	Navy	45	$245.00	$11,025.00	E1	39	6	1 FARMACIAS		
+Coffee Mug 12 oz	Clasico	Rey	8	$245.00	$1,960.00	E1	4	4			
+Coffee Mug 12 oz	Clasico	Menta	7	$245.00	$1,715.00	E1	6	1			
+Coffee Mug 12 oz	Clasico	Sky	4	$245.00	$980.00	E1	3	1	1 FARMACIAS		
+Coffee Mug 12 oz	Clasico	Fusia	4	$245.00	$980.00	E1	4	0	1 FARMACIAS		
+Coffee Mug 12 oz	Clasico	Rosa	2	$245.00	$490.00	E1	2	0			
+Coffee Mug 12 oz	Premium	Marmol Blanco	1	$255.00	$255.00	E1	1	0			
+Coffee Mug 12 oz	Premium	Madera	2	$255.00	$510.00	E1	1	1			
+Voyager 30oz	Clasico	Navy	1	$485.00	$485.00		1	0			
+Voyager 30oz	Clasico	Negro	1	$485.00	$485.00		1	0			
+Voyager 36oz	Clasico	Navy	1	$500.00	$500.00		1	0			
+Wellness	Clasico	Negro	1	$235.00	$235.00		1	0			
+Wellness	Premium	Marmol Blanco	1	$250.00	$250.00		1	0			
+Wellness	Premium	Blush	1	$250.00	$250.00		1	0			
+Set Sommelier	Premium	Negro	1	$850.00	$850.00		1	0			
+Set Sommelier	Premium	Madera	1	$900.00	$900.00		1	0			
+Popote 2 PZS	Accesorio	Negro	4	$40.00	$160.00		2	2			
+Tapa Tumbler 20oz	Accesorio	Transparente	21	$45.00	$945.00		18	3			
+Tapa Tumbler 30oz	Accesorio	Transparente	7	$45.00	$315.00		6	1			
+Tapa Active 22oz	Accesorio	Negro	2	$45.00	$90.00		0	2			
+Tapa Skinny 22oz	Accesorio	Transparente	4	$45.00	$180.00		1	3			
+Tapa Kids 14oz	Accesorio	Negro	1	$40.00	$40.00		1	0			
+Agarraderas 20oz	Accesorio	Negro	8	$45.00	$360.00		6	2			
+Pet Lid	Accesorio	Negro	4	$45.00	$180.00		4	0			
+Soft Cooler 17QT	Accesorio	Blanco	1	$1,070.00	$1,070.00		1	0			
+Soft Cooler 17QT	Accesorio	Azul	11	$1,070.00	$11,770.00		11	0			
+Soft Cooler 28 QT	Accesorio	Blanco	2	$1,070.00	$2,140.00	CAJA	2	0			
+Soft Cooler 28 QT	Accesorio	Navy Blue	3	$1,070.00	$3,210.00	CAJA	3	0			
+											
+		TOTAL	2970	$67,610.00	$759,815.00		2559	412			

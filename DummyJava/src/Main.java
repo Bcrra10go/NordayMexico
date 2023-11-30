@@ -1,17 +1,46 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.*;
+
 // Press ⇧ twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        // Press ⌥⏎ with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        File file = new File("src/norday.tsv");
+        Scanner fileScanner = null;
+        try {
+            fileScanner = new Scanner(file);
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
 
-        // Press ⌃R or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+        NordayApp app = NordayApp.read(fileScanner);
 
-            // Press ⌃D to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing ⌘F8.
-            System.out.println("i = " + i);
+        menu(app);
+    }
+
+    private static void menu(NordayApp app) {
+        Scanner input = new Scanner(System.in);
+        boolean terminate = false;
+
+        while (!terminate) {
+            System.out.println("Porfavor elige:\n" +
+                    "1 - Ver productos con filtro actual\n" +
+                    "2 - Filtrar por producto\n" +
+                    "3 - Filtrar por modelo\n" +
+                    "4 - Cambiar orden\n" +
+                    "5 - Restaurar filtros\n" +
+                    "6 - Terminate program");
+
+            String choice = input.nextLine();
+            switch (choice) {
+                case "1" -> app.print();
+                case "2" -> app.filterProduct(input);
+                case "3" -> app.filterModel(input);
+                case "4" -> app.sort(input);
+                case "5" -> app.resetFilters();
+                case "6" -> terminate = true;
+            }
         }
     }
 }
